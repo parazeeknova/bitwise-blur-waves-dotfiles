@@ -11,6 +11,8 @@
 ---
 
 ## 🌏 Overview :
+<img align="right" src="https://github.com/parazeeknova/bitwise-blur-waves-dotfiles/blob/main/Resources/waves.gif?raw=true" width='300'/>
+
 - **Operating System** : [`Archcraft`](https://archcraft.io/)
 - **Window Manager** : [`Openbox`](http://openbox.org/wiki/Main_Page)
 - **Status Bar** : [`Polybar`](https://github.com/polybar/polybar)
@@ -24,4 +26,14 @@
 - **Web Browser** : `Firefox`
 
 ## 🪜 Installation : 
-Tommorow
+- **Get the files from** : Here (Soon)
+- If you are using _`Archcraft`_ as your OS, You can just replace openbox folder from the dotfile. <br>
+( ***NOTE-FOR-ARCHCRAFT-USER'S*** : This Openbox config only contains Bitwise-forest theme. First ***BACKUP*** your default config to a seperate folder .)
+- Install the following programs on your computer: [`cava`](https://github.com/karlstav/cava) [`Zafiro`](https://www.gnome-look.org/p/1209330) [`Phinger-cursors`](https://github.com/phisch/phinger-cursors) 
+- After installing programs above, Create openbox directory in **`~/.config`** : `mkdir -p ~/.config/openbox`
+- Copy Entire _`openbox`_ to **`~/.config/`** 
+- Copy Everything from _`polybar-scripts`_ to **`Home-dir`**
+- Copy Everything from _`fonts`_ to **`~/.local/share/fonts`** 
+- Logout and login to your amazingly configured Openbox WM.
+
+More tommorow :)
