@@ -45,3 +45,5 @@
 ---
 ## 🌟 Credits : 
 - [***adi1090x***](https://github.com/adi1090x) ~ For his amazing minimal distro and themes and preconfigured openbox WM -  [***Archcraft-os***](https://github.com/archcraft-os).
+- [***closebox73x***](https://www.gnome-look.org/u/closebox73x) ~ For his conky themes. 
+- [***Polybar-scripts***](https://github.com/polybar/polybar-scripts) ~ For info-cava module. 
