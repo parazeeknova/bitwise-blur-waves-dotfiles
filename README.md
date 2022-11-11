@@ -36,4 +36,12 @@
 - Copy Everything from _`fonts`_ to **`~/.local/share/fonts`** 
 - Logout and login to your amazingly configured Openbox WM.
 
-More tommorow :)
+---
+
+## 🤖 [Reddit Post (OLD)](https://www.reddit.com/r/unixporn/comments/x0pa62/openbox_bitwise_blur_waves_first_rice/?utm_source=share&utm_medium=web2x&context=3) :
+![Screenshot](Screenshot/reddit-post.png)
+<p align="center"> Reddit post (Unedited/Stock Bitwise-forest theme just with blur/opacity) 🎞️ </p>
+
+---
+## 🌟 Credits : 
+- [***adi1090x***](https://github.com/adi1090x) ~ For his amazing minimal distro and themes and preconfigured openbox WM -  [***Archcraft-os***](https://github.com/archcraft-os).
