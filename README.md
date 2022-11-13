@@ -1,4 +1,5 @@
 <h1 align="center">🌊 Bitwise Blur Waves Dotfiles :</h1>
+<h2 align="center">[DISCONTINUED]</h2>
 
 > ✨ Inspired/fork/edit from ***Bitwise-forest*** theme by [***adi1090x***](https://github.com/adi1090x) from his Arch distro [***Archcraft-os***](https://github.com/archcraft-os/archcraft).
 - 💻 Linux Configuration by [*parazeeknova*](https://github.com/parazeeknova).
